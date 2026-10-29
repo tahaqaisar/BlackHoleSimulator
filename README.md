@@ -11,7 +11,7 @@ To compile and run this project, you need to have [xmake](https://xmake.io/) on 
 
 First you need to clone this repo
 ```bash
-git clone [https://github.com/tahaqaisar/BlackHoleSimulator](https://github.com/tahaqaisar/BlackHoleSimulator)
+git clone https://github.com/tahaqaisar/BlackHoleSimulator
 ```
 Then you can compile it using xmake
 ```bash
